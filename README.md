@@ -19,7 +19,7 @@ This app allows users to input their height (in cm) and weight (in kg), then cal
 
 | BMI Value        | Category         |
 |------------------|------------------|
-| Less than 18.5   | Underweight 😕   |
+| Less than 18.5   | Underweight 😕 ![BMI Calculator Screenshot](https://github.com/lamzef-achraf/BMI-Calculator/blob/4fd3d6412c4488e9a5b6f5bfe9ef9e8105b1fe6d/Screenshot%202.png)    |
 | 18.5 - 24.9       | Normal 👍         |
 | 25 - 29.9         | Overweight ⚠     |
 | 30 and above      | Obesity 🚨        |
@@ -28,7 +28,7 @@ This app allows users to input their height (in cm) and weight (in kg), then cal
 
 ## 📸 Screenshot
 
-![BMI Calculator Screenshot](https://github.com/lamzef-achraf/BMI-Calculator/blob/4fd3d6412c4488e9a5b6f5bfe9ef9e8105b1fe6d/Screenshot%201.png)  
+![BMI Calculator Screenshot](https://github.com/lamzef-achraf/BMI-Calculator/blob/4fd3d6412c4488e9a5b6f5bfe9ef9e8105b1fe6d/Screenshot%201.png)
 ![BMI Calculator Screenshot](https://github.com/lamzef-achraf/BMI-Calculator/blob/4fd3d6412c4488e9a5b6f5bfe9ef9e8105b1fe6d/Screenshot%202.png)  
 ![BMI Calculator Screenshot](https://github.com/lamzef-achraf/BMI-Calculator/blob/4fd3d6412c4488e9a5b6f5bfe9ef9e8105b1fe6d/Screenshot%203.png)  
 ![BMI Calculator Screenshot](https://github.com/lamzef-achraf/BMI-Calculator/blob/4fd3d6412c4488e9a5b6f5bfe9ef9e8105b1fe6d/Screenshot%204.png)  
