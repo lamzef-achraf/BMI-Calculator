@@ -25,7 +25,7 @@ This app allows users to input their height (in cm) and weight (in kg), then cal
 
 ## 🌐 Live Demo
 
-( https://lamzef-achraf.github.io/BMI-Calculator/)
+https://lamzef-achraf.github.io/BMI-Calculator/
 
 ---
 ## 🙌 Author
